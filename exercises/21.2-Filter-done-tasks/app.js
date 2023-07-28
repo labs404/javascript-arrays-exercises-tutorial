@@ -10,3 +10,5 @@ let tasks = [
 ];
 
 //your code here
+let completedTasks = tasks.filter(function(task) {if (task.done == true) {return task}})
+console.log(completedTasks);
