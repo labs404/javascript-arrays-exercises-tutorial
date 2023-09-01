@@ -2,7 +2,7 @@ let myArray = [2323, 4344, 2325, 324413, 21234, 24531, 2123, 42234, 544, 456, 34
 
 let avg = 0;
 for (let i of myArray) {
-	avg += myArray[i]
+	avg += i
 }
 let avgTest = avg / myArray.length
 
