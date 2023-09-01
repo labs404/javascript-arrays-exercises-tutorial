@@ -5,5 +5,4 @@ let newArray = arrayOfStrings.map(function(val){
 	return (typeof(val));
 });
 
-
 console.log(newArray)

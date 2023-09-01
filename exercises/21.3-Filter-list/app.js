@@ -5,4 +5,4 @@ function filterByName(array, query) {
     return array.filter((person) => person.toLowerCase().includes(query.toLowerCase()))
 }
 
-console.log(filterByName(names, 'am'));
+console.log(filterByName(names, "am"))

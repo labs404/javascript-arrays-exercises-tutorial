@@ -6,5 +6,4 @@ function myFunction(number) {
 };
 
 let newArray = myNumbers.map(myFunction);
-
 console.log(newArray);

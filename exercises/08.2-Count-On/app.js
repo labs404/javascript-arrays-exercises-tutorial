@@ -11,4 +11,4 @@ for(let index = 0; index < myArray.length; index++){
 
 }
 
-console.log(hello)
+console.log(hello) 
